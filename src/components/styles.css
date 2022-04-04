@@ -1,0 +1,33 @@
+.logoutButton {
+    margin-left: .375rem;
+}
+
+.customForm {
+    margin: 8% 20% 20% 40%;
+    padding-right: 20%;
+}
+
+
+.customButton {
+    width: 100%;
+    
+    
+    
+    margin-top: 5px;
+}
+
+
+.customInput{
+    width: 100%;
+}
+
+.customGradient {
+    width: 100%;
+    z-index: -1;
+    margin-bottom: -150px;
+    mask-image: linear-gradient(to bottom,rgba(0,0,0,1), rgba(0,0,0,0));
+}
+
+#customCarasol{
+    height: 300px;
+}
